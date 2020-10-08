@@ -3,7 +3,7 @@
 * Personal website: https://swharden.com
 * How to reach me: swharden@gmail.com
 
-[![](https://github-readme-stats.vercel.app/api?username=swharden&count_private=true&show_icons=true)](https://github.com/swharden) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=swharden&layout=compact)](https://github.com/swharden)
+[![](https://github-readme-stats.vercel.app/api?username=swharden&count_private=true&show_icons=true)](https://github.com/swharden)
 
 ### Favorite Projects
 * **C#:** [ScottPlot](https://github.com/swharden/ScottPlot), [FftSharp](https://github.com/swharden/FftSharp), [Spectrogram](https://github.com/swharden/Spectrogram)
