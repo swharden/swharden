@@ -1,4 +1,4 @@
-### Scott W Harden, DMD, PhD
+# Scott W Harden, DMD, PhD
 
 <mark> **I'm looking for my next role as a software developer!** </mark>
 
